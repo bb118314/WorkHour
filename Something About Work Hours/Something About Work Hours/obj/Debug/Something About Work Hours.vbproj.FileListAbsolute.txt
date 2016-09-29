@@ -1,0 +1,10 @@
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\bin\Debug\Something About Work Hours.exe.config
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something_About_Work_Hours.Form1.resources
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something_About_Work_Hours.Resources.resources
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something About Work Hours.vbproj.GenerateResource.Cache
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\bin\Debug\Something About Work Hours.exe
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\bin\Debug\Something About Work Hours.pdb
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\bin\Debug\Something About Work Hours.xml
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something About Work Hours.exe
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something About Work Hours.xml
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Visual Basic\Something About Work Hours\Something About Work Hours\obj\Debug\Something About Work Hours.pdb
